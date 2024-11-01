@@ -10,6 +10,11 @@
 
     <modules>
         <module>hello-world</module>
+        <module>rna-transcription</module>
+        <module>dnd-character</module>
+        <module>binary-search</module>
+        <module>luhn</module>
+        <module>nucleotide-count</module>
     </modules>
 
     <properties>
