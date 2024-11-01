@@ -2,7 +2,6 @@ import kotlin.random.Random
 import kotlin.math.floor
 
 class DndCharacter {
-
     val strength: Int = ability()
     val dexterity: Int = ability()
     val constitution: Int = ability()
