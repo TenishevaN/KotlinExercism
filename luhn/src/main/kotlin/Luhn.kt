@@ -1,5 +1,4 @@
 object Luhn {
-
     fun isValid(candidate: String): Boolean {
         val cleaned = candidate.filter { it.isDigit() }
 
