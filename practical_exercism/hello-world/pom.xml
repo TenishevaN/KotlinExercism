@@ -8,11 +8,11 @@
         <groupId>com.yourcompany</groupId>
         <artifactId>KotlinExercism</artifactId>
         <version>1.0-SNAPSHOT</version>
-        <relativePath>../pom.xml</relativePath> <!-- Ensure this points correctly to the parent POM -->
+        <relativePath>../../pom.xml</relativePath> <!-- Ensure this points correctly to the parent POM -->
     </parent>
 
     <!-- Define this module's artifactId -->
-    <artifactId>nucleotide-count</artifactId>
+    <artifactId>hello-world</artifactId>
 
     <properties>
         <kotlin.version>1.5.31</kotlin.version> <!-- Define Kotlin version here if not defined in parent -->
@@ -21,8 +21,7 @@
 
     <dependencies>
         <!-- Dependencies can be inherited from the parent or specifically defined here -->
-        <!-- Example: Kotlin Standard Library -->
-        <dependency>
+         <dependency>
             <groupId>org.jetbrains.kotlin</groupId>
             <artifactId>kotlin-stdlib-jdk8</artifactId>
             <version>${kotlin.version}</version>

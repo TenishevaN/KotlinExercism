@@ -9,12 +9,12 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>hello-world</module>
-        <module>rna-transcription</module>
-        <module>dnd-character</module>
-        <module>binary-search</module>
-        <module>luhn</module>
-        <module>nucleotide-count</module>
+        <module>practical_exercism/hello-world</module>
+        <module>practical_exercism/rna-transcription</module>
+        <module>practical_exercism/dnd-character</module>
+        <module>practical_exercism/binary-search</module>
+        <module>practical_exercism/luhn</module>
+        <module>practical_exercism/nucleotide-count</module>
     </modules>
 
     <properties>
