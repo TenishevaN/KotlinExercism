@@ -21,7 +21,8 @@
 
     <dependencies>
         <!-- Dependencies can be inherited from the parent or specifically defined here -->
-         <dependency>
+        <!-- Example: Kotlin Standard Library -->
+        <dependency>
             <groupId>org.jetbrains.kotlin</groupId>
             <artifactId>kotlin-stdlib-jdk8</artifactId>
             <version>${kotlin.version}</version>
